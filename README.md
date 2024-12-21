@@ -10,5 +10,7 @@ This is a simple To-Do List web application where users can add, mark as complet
 - HTML
 - CSS
 - JavaScript
+## Screenshots
+![To-Do List App Screenshot](Screenshot1.png)
 
 
